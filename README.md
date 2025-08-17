@@ -19,8 +19,7 @@ Built with **Python, FAISS, OpenAI, and Gradio** to showcase how RAG can be appl
 - **FAISS** – Vector database for similarity search.  
 - **OpenAI API** – For language model responses.  
 - **Gradio** – Web UI for interaction.  
-- **PyMuPDF / Unstructured** – Document parsing (for PDFs & text).  
-- **Pandas & NumPy** – Data handling.  
+ 
 
 
 
