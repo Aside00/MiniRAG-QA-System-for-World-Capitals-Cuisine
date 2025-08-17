@@ -25,3 +25,6 @@ Built with **Python, FAISS, OpenAI, and Gradio** to showcase how RAG can be appl
 
 ## Code link :
  https://colab.research.google.com/drive/1de9K3e8D3btwbXXAVpplpFmBItrAR8NN?usp=sharing
+
+## Test Video 
+https://drive.google.com/file/d/1AXKv6KRpZKUTfGLNXsIKXjnIareflphM/view?usp=sharing
